@@ -1,0 +1,1 @@
+<span class="text-xl font-bold text-blue-700">📊 ContaBia</span>
